@@ -13,16 +13,16 @@ description: Cuixue's informal essay
 github_username: cuixue
 permalink: /:year/:month/:day/:title/
 # this is the url root of the view source link on the footer page.
-viewsourceroot: https://github.com/cuixue/cuixue.github.io/blob/master/
+viewsourceroot: https://github.com/cuixue/cuix.github.io/blob/master/
 # this is the url root of the create page link on the footer page.
-newsourceroot: https://github.com/cuixue/cuixue.github.io/new/master
+newsourceroot: https://github.com/cuixue/cuix.github.io/new/master
 #########################################
 # for duoshuo.com commenting system, uncomment following line if you do not want to include duoshuo.com. 
 #duoshuo_shortname: lixizhi
 #duoshuo_url: "http://lixizhi.github.io"
 # disqus.com commenting system. please note that it is exclusive with duoshuo.com
-disqus_shortname: cuixue
-disqus_url: "http://cuixue.github.io"
+disqus_shortname: cuix
+disqus_url: "http://cuix.github.io"
 #########################################
 
 # Build settings
